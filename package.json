@@ -1,7 +1,6 @@
 {
   "name": "shadowDirective",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create AngularJS directives which will be inside a shadow dom for kickass modularity",
   "repository": "https://github.com/ephigabay/shadowDirective.git",
   "license": "MIT",
